@@ -1,0 +1,8 @@
+
+.jumbotron{
+    background-image: url(https://image.freepik.com/free-photo/close-up-test-tube-blue-background_127345-478.jpg);
+    background-size: 100% 100%;
+    text-align: center;
+    color:rgb(19, 18, 18);
+}
+body {background-color: rgb(62, 91, 155);}
